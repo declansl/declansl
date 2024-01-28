@@ -49,12 +49,17 @@ I plan to use this website to documents my successes and failures along the way!
 850VDC at 20A is quite a lot of power. The goal of this system is to keep losses low, and power high.  
   
 
-<img src="https://github.com/declansl/interleaved-APFC/blob/main/images/apfcinverterimage.png?raw=true" align="left" height="500" width="" />  
+<img src="https://github.com/declansl/interleaved-APFC/blob/main/images/APFC-setup.JPG?raw=true" align="left" height="500" width="" />  
 
 
 </td><td valign="top" width="50%">
 
-<img src="undefined" align="left" height="350" width="350" />  
+  
+  
+
+<div align="right">
+<img src="https://github.com/declansl/interleaved-APFC/blob/main/images/rather-large-inductors.JPG?raw=true" align="right" height="500" width="" />
+</div>  
 
 
 </td></tr></table>  
@@ -63,9 +68,12 @@ I plan to use this website to documents my successes and failures along the way!
 
 
 ## Arcs & Sparks!  
-![Dental x-ray head transformer](undefined)  
+<img src="https://github.com/declansl/RobotGladiatorDRSSTC/blob/main/images/hv/hvsignarcs.JPEG?raw=true" align="left" height="488" width="" />  
+  
+
+<img src="https://github.com/declansl/RobotGladiatorDRSSTC/blob/main/images/hv/toasterarcs.JPEG?raw=true" align="left" height="400" width="" />  
+  
+
+<img src="https://github.com/declansl/RobotGladiatorDRSSTC/blob/main/images/hv/x-rayarcs.jpg?raw=true" align="left" height="200" width="" />  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
