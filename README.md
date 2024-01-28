@@ -13,8 +13,8 @@
 
 
 
-### Hello! I'm Declan, a high-school student interested in power electronics and high voltage.  
-I plan to use this website to documents my successes and failures along the way!  
+### Hello! I'm Declan, a high school student interested in power electronics and high voltage.  
+I plan to use my GitHub to document any successes and failures I have along the way!  
   
 
 <br/>  
