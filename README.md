@@ -80,34 +80,30 @@ https://github.com/declansl/declansl/assets/137135495/67409671-9772-4419-bf2d-c2
 
 https://github.com/declansl/declansl/assets/137135495/361602d2-9dd0-4cd0-a2b9-591199443ec3
 
-
-</td><td valign="top" width="50%">
-
-#### Some nice red plasma from the lithium "electrode"
-  
-<div align="right">
-<img src="https://github.com/declansl/portfolio/blob/main/images/hvsignarcs.JPEG?raw=true" align="left" height="" width="500" />  
-<div/>
-
-</td></tr></table> 
-
-<br/>
-
-<table><tr><td valign="top" width="50%">
-  
-#### More boric acid!
-
-<img src="https://github.com/declansl/portfolio/blob/main/images/toasterarcs.JPEG?raw=true" align="left" height="" width="500" />  
-
-</td><td valign="top" width="50%">
-
 #### High voltage transformer scored from a retired eBay dental x-ray unit. (~80kV)
 
 https://github.com/declansl/declansl/assets/137135495/406e7396-4733-4dcb-8c0a-b5f26c65110d
 
+</td><td valign="top" width="50%">
+
+#### Some nice red plasma from the lithium "electrode"
+
+<div align="right">
+<img src="https://github.com/declansl/portfolio/blob/main/images/hvsignarcs.JPEG?raw=true" align="left" height="" width="500" />  
+</div>
+  
+<br/>
+<br/>
+
+#### More boric acid!
+
+<div align="right">
+<img src="https://github.com/declansl/portfolio/blob/main/images/toasterarcs.JPEG?raw=true" align="left" height="" width="500" />  
+</div>
+
 </td></tr></table> 
 
-<br />
+<br/>
 
 
 
