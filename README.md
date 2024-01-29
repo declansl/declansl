@@ -50,8 +50,7 @@ I plan to use my GitHub to document any successes and failures I have along the 
 *850VDC at 20A is quite a lot of power. The goal of this system is to keep losses low, and power high.*
   
 
-<img src="https://github.com/declansl/declansl/blob/main/images/APFC-setup.JPG?raw=true" align="left" height="" width="500" />  
-
+<img src="https://github.com/declansl/declansl/blob/main/images/APFC-setup.jpg" align="left" height="" width="500" />  
 
 </td><td valign="top" width="50%">
 
@@ -59,7 +58,7 @@ I plan to use my GitHub to document any successes and failures I have along the 
   
 
 <div align="right">
-<img src="https://github.com/declansl/declansl/blob/main/images/rather-large-inductors.JPG?raw=true" align="right" height="" width="500" />
+<img src="https://github.com/declansl/declansl/blob/main/images/rather-large-inductors.jpg" align="right" height="" width="500" />
 </div>  
 
 
@@ -89,7 +88,7 @@ https://github.com/declansl/declansl/assets/137135495/406e7396-4733-4dcb-8c0a-b5
 #### Some nice red plasma from the lithium "electrode"
 
 <div align="right">
-<img src="https://github.com/declansl/declansl/blob/main/images/hvsignarcs.JPEG?raw=true" align="left" height="" width="500" />  
+<img src="https://github.com/declansl/declansl/blob/main/images/hvsignarcs.jpg" align="left" height="" width="500" />  
 </div>
   
 <br/>
