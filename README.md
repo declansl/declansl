@@ -29,12 +29,12 @@ I plan to use my GitHub to document any successes and failures I have along the 
 *Who doesn't love Tesla coils: this project is designed to mobilize one on a robot.*  
   
 
-<img src="https://github.com/declansl/RobotGladiatorDRSSTC/blob/main/images/housingimg-w-parts.png?raw=true" align="left" height="350" width="" />  
+<img src="https://github.com/declansl/declansl/blob/main/images/housingimg-w-parts.png?raw=true" align="left" height="350" width="" />  
 
 
 </td><td valign="top" width="50%">
 
-<img src="https://github.com/declansl/portfolio/blob/main/images/transparentdrsstcfullrender.png?raw=true" align="center" height="550" width="" />  
+<img src="https://github.com/declansl/declansl/blob/main/images/transparentdrsstcfullrender.png?raw=true" align="center" height="550" width="" />  
 
 
 </td></tr></table>  
@@ -50,7 +50,7 @@ I plan to use my GitHub to document any successes and failures I have along the 
 *850VDC at 20A is quite a lot of power. The goal of this system is to keep losses low, and power high.*
   
 
-<img src="https://github.com/declansl/portfolio/blob/main/images/APFC-setup.JPG?raw=true" align="left" height="" width="500" />  
+<img src="https://github.com/declansl/declansl/blob/main/images/APFC-setup.JPG?raw=true" align="left" height="" width="500" />  
 
 
 </td><td valign="top" width="50%">
@@ -59,7 +59,7 @@ I plan to use my GitHub to document any successes and failures I have along the 
   
 
 <div align="right">
-<img src="https://github.com/declansl/portfolio/blob/main/images/rather-large-inductors.JPG?raw=true" align="right" height="" width="500" />
+<img src="https://github.com/declansl/declansl/blob/main/images/rather-large-inductors.JPG?raw=true" align="right" height="" width="500" />
 </div>  
 
 
@@ -76,7 +76,7 @@ I plan to use my GitHub to document any successes and failures I have along the 
 
 https://github.com/declansl/declansl/assets/137135495/67409671-9772-4419-bf2d-c22c9c22021f
 
-#### Power supply used to feed the afformentioned SGTC (boric acid on the plate creates a green glow)
+#### Power supply used to feed the aforementioned SGTC (boric acid on the plate creates a green glow)
 
 https://github.com/declansl/declansl/assets/137135495/361602d2-9dd0-4cd0-a2b9-591199443ec3
 
@@ -89,7 +89,7 @@ https://github.com/declansl/declansl/assets/137135495/406e7396-4733-4dcb-8c0a-b5
 #### Some nice red plasma from the lithium "electrode"
 
 <div align="right">
-<img src="https://github.com/declansl/portfolio/blob/main/images/hvsignarcs.JPEG?raw=true" align="left" height="" width="500" />  
+<img src="https://github.com/declansl/declansl/blob/main/images/hvsignarcs.JPEG?raw=true" align="left" height="" width="500" />  
 </div>
   
 <br/>
@@ -98,7 +98,7 @@ https://github.com/declansl/declansl/assets/137135495/406e7396-4733-4dcb-8c0a-b5
 #### More boric acid!
 
 <div align="right">
-<img src="https://github.com/declansl/portfolio/blob/main/images/toasterarcs.JPEG?raw=true" align="left" height="" width="500" />  
+<img src="https://github.com/declansl/declansl/blob/main/images/toasterarcs.jpg" align="left" height="" width="500" />  
 </div>
 
 </td></tr></table> 
