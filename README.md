@@ -29,12 +29,12 @@ I plan to use my GitHub to document any successes and failures I have along the 
 *Who doesn't love Tesla coils: this project is designed to mobilize one on a robot.*  
   
 
-<img src="https://github.com/declansl/declansl/blob/main/images/housingimg-w-parts.png?raw=true" align="left" height="350" width="" />  
+<img src="https://github.com/declansl/RobotGladiatorDRSSTC/blob/main/images/housingimg-w-parts.png?raw=true" align="left" height="350" width="" />  
 
 
 </td><td valign="top" width="50%">
 
-<img src="https://github.com/declansl/declansl/blob/main/images/transparentdrsstcfullrender.png?raw=true" align="center" height="550" width="" />  
+<img src="https://github.com/declansl/RobotGladiatorDRSSTC/blob/main/images/transparentdrsstcfullrender.png?raw=true" align="center" height="550" width="" />  
 
 
 </td></tr></table>  
