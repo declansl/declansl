@@ -81,7 +81,7 @@ https://github.com/declansl/declansl/assets/137135495/361602d2-9dd0-4cd0-a2b9-59
 
 #### High voltage transformer scored from a retired eBay dental x-ray unit. (~80kV)
 
-https://github.com/declansl/declansl/assets/137135495/406e7396-4733-4dcb-8c0a-b5f26c65110d
+https://github.com/declansl/declansl/assets/137135495/b12d771f-9735-4c0e-98a4-e992205c6c05
 
 </td><td valign="top" width="50%">
 
